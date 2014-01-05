@@ -1,3 +1,5 @@
+# WORK IN PROGRESS! PLEASE DO NOT USE!
+
 stylenguard
 ===========
 
